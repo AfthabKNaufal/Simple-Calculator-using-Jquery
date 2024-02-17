@@ -1,0 +1,102 @@
+body{
+    background: url("https://img.freepik.com/free-photo/back-school-decoration-with-pencils-calculator-space_23-2147662344.jpg");
+    background-color: bisque;
+    background-size: 100%;
+    
+
+}
+
+
+.calculator1
+{ background-color: rgb(32, 32, 32);
+  
+  position: absolute;
+  left: 50%;
+  top: 12%;
+  padding: 4%;
+    padding-top: 4%;
+  border-radius: 50px;
+  padding-top: 118px;
+  padding-left: 65px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  border-block-style: ridge;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+
+
+.input_field
+{
+  width: 219px;
+  position: relative;
+  left: -24px;
+  top: -82px;
+  padding: 10px;
+  background-color: darkgray;
+  border-radius: 50px;
+}
+
+.result_field
+{
+  width: 219px;
+    position: relative;
+  top: -77px;
+  padding: 10px;
+  left: -24px;
+  background-color: darkgray;
+  border-radius: 50px;
+}
+
+.button{
+  width: 46px;
+    position: relative;
+  bottom: 59px;
+  padding: 14px;
+  border-radius: 100%;
+  left: -14px;
+  margin-top: 10px;
+  background-color: dimgray;
+}
+.operator{
+  width: 46px;
+    position: relative;
+  bottom: 59px;
+  padding: 14px;
+  border-radius: 100%;
+  left: -14px;
+  margin-top: 10px;
+  background-color: chocolate;
+}
+.clear{
+  width: 46px;
+    position: relative;
+  bottom: 59px;
+  padding: 14px;
+  border-radius: 100%;
+  left: -14px;
+  margin-top: 10px;
+  background-color: chocolate;
+}
+
+.equal{
+  width: 46px;
+    position: relative;
+  bottom: 59px;
+  padding: 14px;
+  border-radius: 100%;
+  left: -14px;
+  margin-top: 10px;
+  background-color: blanchedalmond;
+}
+
+.back{
+  width: 46px;
+    position: relative;
+  bottom: 59px;
+  padding: 14px;
+  border-radius: 100%;
+  left: -14px;
+  margin-top: 10px;
+  background-color: chocolate;
+}
